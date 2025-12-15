@@ -1,0 +1,41 @@
+nav {
+
+  background: #6e8ed8;           /* azul escuro */
+  padding: 0.5rem 1rem;
+}
+img {
+  background-color: rgb(16, 7, 71);
+  border-radius: 50%;
+  width: 65px;
+ 
+}
+.menu {
+   justify-content: space-between;
+  list-style: none;              /* remove bolinhas */
+  margin: 0;
+  padding: 0;
+  display: flex  ;       /* coloca em linha */
+  gap: 1rem;                     /* espaço entre itens */
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+ul{
+  display: flex;
+  list-style: none;
+  gap: 1rem;
+  font-size: 20px;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black ;
+}
+body{
+  background-color: #557ddb;
+}
+main{
+  background-color: #7695dd;
+}
